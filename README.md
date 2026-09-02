@@ -11,6 +11,9 @@ Started on 2nd September 2026.
 |Taking Break (imp work)|8:10pm|
 |continuing Work| 11:05|
 |Model & Service Completed|11:16|
-
+|put synthetic data in json|11:20|
+|ran the server successfully|11:52|
+|testing done|11:52|
+|full project summary|due|
 
 
