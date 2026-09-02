@@ -1,4 +1,6 @@
-Public class Movie{
+package com.example.demo.Model;
+
+public class Movie{
     private String id;
     private String title;
     private String genre;
