@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "rating": "8.8"
+  },
+  {
+    "id": "2",
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "rating": "9.0"
+  }
+]
