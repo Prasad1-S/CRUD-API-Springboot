@@ -6,7 +6,9 @@ Started on 2nd September 2026.
 | Task | Timeline |
 |------|----------|
 |Create Repository|29 Aug 4.30|
-|Initated Springboot Project|2nd Sept 7.35|
+|Initated Springboot Project|2nd Sept 7.35pm|
+|Model + Service work almost done|8:10pm|
+|Taking Break (imp work)|8:10pm|
 
 
 
